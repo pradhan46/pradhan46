@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pradhan46
-- 👀 I’m interested in web desiging
-- 🌱 I’m currently learning  react js
+- �
 
 
 <!---
